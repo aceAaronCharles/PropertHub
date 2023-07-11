@@ -147,7 +147,7 @@ html.lb-disable-scrolling {
   line-height: 1em;
 }
 .lb-data .lb-caption a {
-  color: #4ae;
+  color: rgb(238, 68, 68);
 }
 .lb-data .lb-number {
   display: block;
