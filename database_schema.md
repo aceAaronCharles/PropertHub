@@ -6,14 +6,12 @@
 - title: STR
 - address: STR
 - city: STR
-- state: STR
-- zipcode: STR
+- county: STR
 - description: TEXT
 - price: INT
 - bedrooms: INT
 - bathrooms: INT
 - garage: INT [0]
-- sqft: INT
 - lot_size: FLOAT
 - is_published: BOOL [true]
 - list_date: DATE
