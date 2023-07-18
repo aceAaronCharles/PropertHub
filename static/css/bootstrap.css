@@ -137,7 +137,7 @@ sup {
   top: -.5em; }
 
 a {
-  color: #10284e;
+  color: rgb(187, 12, 12);
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
@@ -416,7 +416,7 @@ mark,
 
 code {
   font-size: 87.5%;
-  color: #e83e8c;
+  color: #c72b2b;
   word-break: break-word; }
   a > code {
     color: inherit; }
