@@ -59,7 +59,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #cf0202;
   text-align: left;
   background-color: #fff; }
 
@@ -1993,7 +1993,7 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #10284e;
+  color: #8f1717;
   background-color: transparent; }
   .btn-link:hover {
     color: #03070f;
@@ -2204,7 +2204,7 @@ input[type="button"].btn-block {
   .dropdown-item.active, .dropdown-item:active {
     color: #fff;
     text-decoration: none;
-    background-color: #10284e; }
+    background-color: #8f1717; }
   .dropdown-item.disabled, .dropdown-item:disabled {
     color: #6c757d;
     background-color: transparent; }
@@ -4278,7 +4278,7 @@ button.close {
   vertical-align: text-top !important; }
 
 .bg-primary {
-  background-color: #10284e !important; }
+  background-color: #8f1717 !important; }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
