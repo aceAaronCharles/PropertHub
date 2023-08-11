@@ -30,6 +30,5 @@ county_choices = {
        'KSM' : 'Kisumu' ,
        'ELD' : 'Eldoret',
        'THK':'Thika',
-       'NY':'Nyamasaria',
        'MBS': 'Mombasa',
 }
